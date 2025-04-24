@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "local",
+      "database": "${workspaceFolder:playground}/prisma/dev.db"
+    }
+  ],
+  "material-icon-theme.activeIconPack": "nest"
+}
